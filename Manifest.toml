@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.6"
+manifest_format = "2.0"
+project_hash = "0a2e1e8568512cdc8cdcd281ca4abe8cd21dcf3e"
+
+[[deps.ReuseLicenseJuliaPackage]]
+path = "."
+uuid = "11111111-1111-1111-1111-111111111111"
+version = "0.1.0"
